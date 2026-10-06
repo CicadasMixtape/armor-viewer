@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cicadas.mixtape.armorviewer.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GuiMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
